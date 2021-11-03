@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ee91b86.chunk.css",
+    "main.js": "/static/js/main.59d61dc4.chunk.js",
+    "main.js.map": "/static/js/main.59d61dc4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.78b8ca75.js",
+    "runtime-main.js.map": "/static/js/runtime-main.78b8ca75.js.map",
+    "static/css/2.f2512455.chunk.css": "/static/css/2.f2512455.chunk.css",
+    "static/js/2.4d9c4b43.chunk.js": "/static/js/2.4d9c4b43.chunk.js",
+    "static/js/2.4d9c4b43.chunk.js.map": "/static/js/2.4d9c4b43.chunk.js.map",
+    "static/js/3.0aa0d504.chunk.js": "/static/js/3.0aa0d504.chunk.js",
+    "static/js/3.0aa0d504.chunk.js.map": "/static/js/3.0aa0d504.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.1ee91b86.chunk.css.map": "/static/css/main.1ee91b86.chunk.css.map",
+    "static/js/2.4d9c4b43.chunk.js.LICENSE.txt": "/static/js/2.4d9c4b43.chunk.js.LICENSE.txt",
+    "static/media/figo.d9c04e67.JPG": "/static/media/figo.d9c04e67.JPG",
+    "static/media/logo-fa.c4f279da.jpg": "/static/media/logo-fa.c4f279da.jpg",
+    "static/media/quiz.041bd795.JPG": "/static/media/quiz.041bd795.JPG",
+    "static/media/todo.c0ac25ef.JPG": "/static/media/todo.c0ac25ef.JPG",
+    "static/media/weather.5d2251b9.JPG": "/static/media/weather.5d2251b9.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78b8ca75.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.4d9c4b43.chunk.js",
+    "static/css/main.1ee91b86.chunk.css",
+    "static/js/main.59d61dc4.chunk.js"
+  ]
+}
